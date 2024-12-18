@@ -35,3 +35,17 @@ it outperforms the previous SOTA method with 5.5\% mIoU improvement.
 
 
 
+## Application and Limitation
+Traditional models are often limited to predefined questions, limiting their applicaiton in open-world situations.
+Benefiting from the powerful reasoning capabilities of LLM models, our method exhibits good generalization ability, 
+enabling it to be directly applied to real-world scenarios for simple question-answering conversationals in a unified paradigm. 
+For example, it can effectively provide driving risk warning alerts as shown in the image below.
+However, the model's responses remain highly dependent on the examples in the training data. 
+In real-world application scenarios, we often encounter long-tail cases that are not included in the training set, 
+such as suddenly dropped cargo from a vehicle ahead, road obstacles, or animals unexpectedly crossing the path. 
+In such situations, the model often fail to make correct judgments.
+<div  align="center">    
+	<img src="images/real.png" width="80%" alt="Figure 3: Real world applications">
+	<p>Figure 3: Real world applications</p>
+</div>
+And we have explored to solve such problem in our next paper.

@@ -20,3 +20,4 @@ our H-MBA enables image based MLLM models to understand video contents,
 and shows remarkable performance on multi-modal video tasks in autonomous driving,
 e.g., for risk object detection, 
 it outperforms the previous SOTA method with 5.5\% mIoU improvement.
+![image text]()

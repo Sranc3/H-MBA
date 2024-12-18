@@ -25,11 +25,12 @@ it outperforms the previous SOTA method with 5.5\% mIoU improvement.
 <div  align="center">    
 	<img src="/images/frame.png" width="80%" alt="Figure 1">
 </div>
-<center>   Figure 1：Overview of the framewrok </center>
+<center>Figure 1：Overview of the framewrok</center>
+
 <div  align="center">    
 	<img src="images/threeMB.jpg" width="80%" alt="Figure 2:Illustration of three different mamba modules">
 </div>
-<center>  Figure 2: Illustration of three different mamba modules </center>
+<center>Figure 2: Illustration of three different mamba modules</center>
 
 
 

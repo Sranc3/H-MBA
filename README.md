@@ -21,13 +21,15 @@ and shows remarkable performance on multi-modal video tasks in autonomous drivin
 e.g., for risk object detection, 
 it outperforms the previous SOTA method with 5.5\% mIoU improvement.
 
-<div  align="center">    
-	<img src="/images/frame.png" width="80%">
-</div>
 
 <div  align="center">    
-	<img src="images/threeMB.jpg" width="80%">
+	<img src="/images/frame.png" width="80%" alt="Figure 1">
 </div>
+<center>   Figure 1：Overview of the framewrok </center>
+<div  align="center">    
+	<img src="images/threeMB.jpg" width="80%" alt="Figure 2:Illustration of three different mamba modules">
+</div>
+<center>  Figure 2: Illustration of three different mamba modules </center>
 
 
 

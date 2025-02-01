@@ -51,5 +51,12 @@ In such situations, the model often fail to make correct judgments.
 And we have explored to solve such problem in our next paper.
 
 
+
+## Data Preparation ##
+DRAMA explores multiple facets of joint risk localization and captioning in interactive driving scenarios. In particular, they benchmark various multi-task prediction architectures and provide a detailed analysis of joint risk localization and risk captioning. The data set is available at https://usa.honda-ri.com/drama. They provide many frame images of a video and optical flow features, we only use 5 frames for temporal modeling.
+
+BDD-X Dataset coule be available at https://github.com/JinkyuKimUCB/BDD-X-dataset for detailed information, and we cut the frames from the raw videos.
+
+
 ## Model and codes
 The model and codes will be available soon.

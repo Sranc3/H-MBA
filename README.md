@@ -58,5 +58,6 @@ DRAMA explores multiple facets of joint risk localization and captioning in inte
 BDD-X Dataset coule be available at https://github.com/JinkyuKimUCB/BDD-X-dataset for detailed information, and we cut the frames from the raw videos.
 
 
-## Model and codes
-The model and codes will be available soon.
+## Acknowledgement
+
+This repo benefits from [LLaVA](https://github.com/haotian-liu/LLaVA), [Vicuna](https://github.com/lm-sys/FastChat), [ChatGLM-Efficient-Tuning](https://github.com/hiyouga/ChatGLM-Efficient-Tuning) and [GLIGEN](https://github.com/gligen/GLIGEN), [Shikra](https://github.com/shikras/shikra). Thanks for their wonderful works.

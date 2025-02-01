@@ -1,0 +1,4 @@
+[
+    "Please tell which object is at the highest risk for the ego car in the image <image> and give coordinates [x1,y1,x2,y2] for the object you mention.",
+    "Analyze which object is most noteworthy for the ego car within the photo <image> and provide bounding box info for the referenced object."
+]

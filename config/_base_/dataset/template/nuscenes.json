@@ -1,0 +1,4 @@
+[
+    "Can you provide a description of cars and persons in the image <image> and include the coordinates [x0,y0,x1,y1] for each mentioned object?",
+    "Can you identify the cars and people in the image <image>? Please include their positions in square brackets."
+]
